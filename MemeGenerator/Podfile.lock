@@ -1,0 +1,24 @@
+PODS:
+  - Cache (4.1.2)
+  - Hero (1.0.0)
+  - Imaginary (3.0.2):
+    - Cache (~> 4.0)
+
+DEPENDENCIES:
+  - Hero
+  - Imaginary
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Cache
+    - Hero
+    - Imaginary
+
+SPEC CHECKSUMS:
+  Cache: bd0233fc688b5e83a27bcd87807db7e6f23adcc5
+  Hero: 18e7cf8af41c04c8532d1430ac174004a9365c87
+  Imaginary: d675200546110e305d6a26db6267c0622ffe5e6b
+
+PODFILE CHECKSUM: d2282d94c838e2d0a02de3b87c5cca93afa5dd7d
+
+COCOAPODS: 1.5.0
